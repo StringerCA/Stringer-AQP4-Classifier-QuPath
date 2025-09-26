@@ -33,7 +33,7 @@ Apply the classifier to annotated regions or tiles
 
 Citation
 If you use this classifier, please cite:
-Stringer, C.A. et al. (2025). "Regional Differences in Astrocytic Aquaporin-4 Protein Levels and Localization in Aging and Alzheimer’s Disease in Down Syndrome." Neurobiology of Disease. https://doi.org/10.1016/j.nbd.2025.107114
+Stringer, C.A., et al. (2025). "Regional Differences in Astrocytic Aquaporin-4 Protein Levels and Localization in Aging and Alzheimer’s Disease in Down Syndrome." Neurobiology of Disease. https://doi.org/10.1016/j.nbd.2025.107114
 
 Contact
 For questions or usage details, contact clepe1@gmail.com or cheriestringer45@gmail.com
